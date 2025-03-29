@@ -502,4 +502,52 @@ Reddit
 These resources should assist you in exploring diffusion-reaction PDEs and generating random equations for practice or study purposes.
 
 
+12.4. Simulating a partial differential equation — reaction-diffusion systems and Turing patterns
+
+
+https://ipython-books.github.io/124-simulating-a-partial-differential-equation-reaction-diffusion-systems-and-turing-patterns/?utm_source=chatgpt.com
+
+https://github.com/bad-ants-fleet/crnsimulator?utm_source=chatgpt.com
+
+https://github.com/bad-ants-fleet/crnsimulator?utm_source=chatgpt.com
+
+
+https://github.com/ethank5149/DifferentialEquations?utm_source=chatgpt.com
+
+
+https://github.com/ethank5149/DifferentialEquations?utm_source=chatgpt.com
+
+https://github.com/gilbertfrancois/partial-differential-equations?utm_source=chatgpt.com
+
+
+https://github.com/gilbertfrancois/partial-differential-equations?utm_source=chatgpt.com
+
+https://github.com/gilbertfrancois/partial-differential-equations?utm_source=chatgpt.com
+
+https://github.com/isds-neu/PeRCNN?utm_source=chatgpt.com
+
+
+
+https://github.com/isds-neu/PeRCNN?utm_source=chatgpt.com
+
+
+https://github.com/NeuroDiffGym/neurodiffeq?utm_source=chatgpt.com
+
+
+https://github.com/NeuroDiffGym/neurodiffeq?utm_source=chatgpt.com
+
+
+https://github.com/NeuroDiffGym/neurodiffeq?utm_source=chatgpt.com
+
+
+https://github.com/hjm9702/reaction_yield_pretrained_gnn?utm_source=chatgpt.com
+
+
+https://github.com/hjm9702/reaction_yield_pretrained_gnn?utm_source=chatgpt.com
+
+
+https://www.mathworks.com/help/matlab/ode-solvers.html
+
+
+
 
