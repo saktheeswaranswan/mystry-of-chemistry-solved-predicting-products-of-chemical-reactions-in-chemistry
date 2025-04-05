@@ -1,3 +1,9 @@
+very important chemistry reactions testing software 
+
+
+https://www.sciencebysimulation.com/chemreax/Analyzer.aspx
+
+
 https://scientific.place/math-encrypt/
 
 
